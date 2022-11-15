@@ -1,0 +1,17 @@
+ID: 1
+
+Summary: paywall is not closed by tapping X button.
+Prioirty: Critical
+Severity: Critical
+Environment: dev
+Affect version: 1.0
+Fix version: 1.0
+
+Pre conditions: the app is running.
+Steps to reproduce:
+1. Reach the Main screen -> MENU -> paywall;
+2. Click the X button.
+Actual result: the X button is not tappable.
+Expected result: the X button should be tappable.
+
+Build: v1.0 #5
