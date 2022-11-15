@@ -1,0 +1,35 @@
+ID: 1
+
+Title: Check default config.
+Steps:
+1. Turn off the Internet;
+2. Launch the app.
+Expected result: the app is launched on default cfg with default features/campaings/etc.
+_____
+ID: 2
+
+Title: Check remote config.
+Steps:
+1. Turn on the Internet;
+2. Launch the app.
+Expected result: the app is launched on remote cfg.
+_____
+ID: 3
+
+Title: Create Account screen is displayed after tapping 'Create Account' button.
+Steps:
+1. Launch the app;
+2. Reach the SIGN-IN&SIGN-UP screen;
+3. Click the 'Create Account' button.
+Expected result: Create Account screen is displayed.
+_____
+ID:4
+
+Title: Paywall can be closed by tapping X button.
+Steps:
+1. Launch the app;
+2. Pass Welcome screen;
+3. Reach the Main screen -> MENU -> premium button.
+Expected result: paywall is displayed.
+4. Click the X button.
+Expected result: paywall is closed by tapping X button.
