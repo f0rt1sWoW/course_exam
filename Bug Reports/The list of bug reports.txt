@@ -15,3 +15,63 @@ Actual result: the X button is not tappable.
 Expected result: the X button should be tappable.
 
 Build: v1.0 #5
+
+_____
+
+ID: 2
+
+Summary: Subscription button is not tappable on the paywall.
+Prioirty: Critical
+Severity: Critical
+Environment: dev
+Affect version: 1.0
+Fix version: 1.0
+
+Pre conditions: the app is running.
+Steps to reproduce:
+1. Reach the Main screen -> MENU -> paywall;
+2. Click the Subscription  button.
+Actual result: the Subscription button is not tappable.
+Expected result: the Subscription button should be tappable.
+
+Build: v1.0 #5
+
+_____
+
+ID: 3
+
+Summary: Terms button is not tappable on the paywall.
+Prioirty: Critical
+Severity: Critical
+Environment: dev
+Affect version: 1.0
+Fix version: 1.0
+
+Pre conditions: the app is running.
+Steps to reproduce:
+1. Reach the Main screen -> MENU -> paywall;
+2. Click the Terms button.
+Actual result: the Terms button is not tappable.
+Expected result: the Terms button should be tappable.
+
+Build: v1.0 #5
+
+_____
+
+ID: 4
+
+Summary: Privacy button is not tappable on the paywall.
+Prioirty: Critical
+Severity: Critical
+Environment: dev
+Affect version: 1.0
+Fix version: 1.0
+
+Pre conditions: the app is running.
+Steps to reproduce:
+1. Reach the Main screen -> MENU -> paywall;
+2. Click the Privacy button.
+Actual result: the Privacy button is not tappable.
+Expected result: the Privacy button should be tappable.
+
+Build: v1.0 #5
