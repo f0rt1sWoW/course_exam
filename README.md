@@ -1,0 +1,1 @@
+This is the README file, that contains info about my final exam in GIT&GitHub. 
