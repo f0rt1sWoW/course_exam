@@ -1,5 +1,0 @@
-Title: Check default config.
-Steps:
-1. Turn off the Internet;
-2. Launch the DJ it! app.
-Expected result: the app is launched on default cfg with default features/campaings/etc.
